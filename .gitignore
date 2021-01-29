@@ -3,7 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-_config.yml
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos
