@@ -1,5 +1,7 @@
 title: This is the site title
 description: This is the site description.
+url: "https://ux-at-icfnext.github.io/uswds-jekyll"
+baseurl: "/uswds-jekyll"
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
